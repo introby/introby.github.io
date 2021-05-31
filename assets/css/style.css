@@ -25,7 +25,7 @@ img {
 a {
   text-decoration: none;
   outline: none;
-  color: #444; }
+  color: #fff; }
 
 a:hover {
   color: #444; }
@@ -267,7 +267,8 @@ body {
         font-size: .9rem;
         margin: auto 0; }
     .profile-box .left-side .pb0 {
-      padding-bottom: 0px; }
+      padding-bottom: 0px;
+	  padding-top: 0px; }
     .profile-box .left-side .social-link li {
       padding: 10px 15px; }
     .profile-box .left-side .refer-cov {
@@ -369,7 +370,7 @@ body {
     padding: 10px 15px;
     font-size: .9rem; }
     .rit-cover .education ul li span {
-      font-size: .8rem; }
+      font-size: .9rem; }
 .rit-cover .profess-cover {
   padding: 20px 0px; }
   .rit-cover .profess-cover .prog-row {
